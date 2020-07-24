@@ -15,7 +15,6 @@
 		70FF2B3724CB35AE00F0C5A7 /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B3624CB35AD00F0C5A7 /* HomePageViewController.swift */; };
 		70FF2B3924CB361600F0C5A7 /* NewPostPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B3824CB361600F0C5A7 /* NewPostPageViewController.swift */; };
 		70FF2B3B24CB361A00F0C5A7 /* NewPostTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B3A24CB361A00F0C5A7 /* NewPostTableViewCell.swift */; };
-		70FF2B3F24CB368000F0C5A7 /* ExploreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B3E24CB368000F0C5A7 /* ExploreTableViewCell.swift */; };
 		70FF2B4524CB383500F0C5A7 /* UserPictureCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B4424CB383500F0C5A7 /* UserPictureCollectionViewCell.swift */; };
 		70FF2B4724CB383B00F0C5A7 /* ProfilePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FF2B4624CB383B00F0C5A7 /* ProfilePageViewController.swift */; };
 		E21B20672484EC61006D87C6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = E21B20652484EC61006D87C6 /* Localizable.strings */; };
@@ -35,7 +34,6 @@
 		70FF2B3624CB35AD00F0C5A7 /* HomePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
 		70FF2B3824CB361600F0C5A7 /* NewPostPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewPostPageViewController.swift; sourceTree = "<group>"; };
 		70FF2B3A24CB361A00F0C5A7 /* NewPostTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewPostTableViewCell.swift; sourceTree = "<group>"; };
-		70FF2B3E24CB368000F0C5A7 /* ExploreTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreTableViewCell.swift; sourceTree = "<group>"; };
 		70FF2B4424CB383500F0C5A7 /* UserPictureCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserPictureCollectionViewCell.swift; sourceTree = "<group>"; };
 		70FF2B4624CB383B00F0C5A7 /* ProfilePageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfilePageViewController.swift; sourceTree = "<group>"; };
 		E21B20662484EC61006D87C6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -81,7 +79,6 @@
 				E2F88BA42343BFD700CFE78C /* AppDelegate.swift */,
 				E2F88BA62343BFD700CFE78C /* ViewController.swift */,
 				5F15BA385698529908974943 /* ListPageViewController.swift */,
-				70FF2B3E24CB368000F0C5A7 /* ExploreTableViewCell.swift */,
 				5F15BA382100039635907666 /* ExplorePhotoTableViewCell.swift */,
 				70FF2B4624CB383B00F0C5A7 /* ProfilePageViewController.swift */,
 				70FF2B4424CB383500F0C5A7 /* UserPictureCollectionViewCell.swift */,
@@ -173,7 +170,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				70FF2B4524CB383500F0C5A7 /* UserPictureCollectionViewCell.swift in Sources */,
-				70FF2B3F24CB368000F0C5A7 /* ExploreTableViewCell.swift in Sources */,
 				70FF2B3B24CB361A00F0C5A7 /* NewPostTableViewCell.swift in Sources */,
 				E2F88BA72343BFD700CFE78C /* ViewController.swift in Sources */,
 				5F15BA386565781959854311 /* ListPageViewController.swift in Sources */,
